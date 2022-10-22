@@ -2,7 +2,7 @@
  <p align="center"><img src="https://cdn.discordapp.com/attachments/496983030993518592/756818262771367956/102389586_135893838084980_7401656178564981492_o.jpg" /></p>
 
  ## About
- Messenger Bot Template for Casual Gathering Server created by John Lester
+ Messenger Bot Template for Casual Gathering Server created by John Lester۔I just modified the coding
 
  ## Copyright
  This project is protected by **Attribution-ShareAlike 4.0 International** which allows users to use, distribute, display, even
