@@ -1,6 +1,5 @@
 # Messenger Bot
- <p align="center"><img src="https://cdn.discordapp.com/attachments/496983030993518592/756818262771367956/102389586_135893838084980_7401656178564981492_o.jpg" /></p>
-
+<img src="https://github.com/Farhan-XD/Farhan-XD/blob/264e78b84b30070514bd30a7e61c434d382db66e/Images%20;v/ALT.png" width="350" height="100" align="center">
  ## About
  Messenger Bot Template for Casual Gathering Server created by John Lester۔I just modified the coding
 
