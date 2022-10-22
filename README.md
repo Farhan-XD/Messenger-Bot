@@ -1,7 +1,8 @@
 # Messenger Bot
 <img src="https://github.com/Farhan-XD/Farhan-XD/blob/264e78b84b30070514bd30a7e61c434d382db66e/Images%20;v/ALT.png" width="350" height="100" align="center">
+
  ## About
- Messenger Bot Template for Casual Gathering Server created by John Lester۔I just modified the coding
+ Messenger Bot Template for Casual Gathering Server created by John Lester۔I just modified the coding 
 
  ## Copyright
  This project is protected by **Attribution-ShareAlike 4.0 International** which allows users to use, distribute, display, even
